@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Parth Dhanjal
-- 👀 I’m interested in UI development
+- 👀 I’m interested in UI development and k8s
 - 🌱 I’m currently learning Analytics
 - 💞️ I’m looking to collaborate on projects that can help me learn analytical tools
 - 📫 How to reach me parthh.dhanjal@gmail.com
